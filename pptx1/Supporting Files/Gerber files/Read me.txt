@@ -1,0 +1,8 @@
+If any vendor asks for options when ordering the PCB board:
+
+- Size: 57 mm X 49 mm
+- 1 layer of copper
+- No solder mask
+- Board materials: FR-4
+- Thickness 1.6 mm
+- Hole size: 0.3 mm
